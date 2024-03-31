@@ -498,3 +498,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x62765cc22"}
 {"jsonrpc":"2.0","id":1,"result":"0x4abc47ea5"}
 {"jsonrpc":"2.0","id":1,"result":"0x54c60f17b"}
+{"jsonrpc":"2.0","id":1,"result":"0x0"}
